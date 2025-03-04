@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+body{
+background-color:#D5E1EF;
+text-align: center;
+}
+
+.attribution {
+    height: 480px;
+    width: 100%;
+    max-width: 320px;
+    background-color:azure;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    border-radius: 16px;
+    padding: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 1px 1px 20px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+</style>
+  </head>
+  <body>
+
+    <div></div>
+    <div class="attribution">
+      <img src="image-qr-code.png" alt="QR"/>
+      <h2>Improve your front-end skills by building projects</h2>
+      <p>
+        Scan the Qr code to visit Frontend Mentor and take your coding skills to
+        the next level.
+      </p>
+    </div>
+  </body>
+</html>
+ 
